@@ -44,3 +44,18 @@ nbactions.xml
 nb-configuration.xml
 #NetBeans end
 
+
+# Intellij
+.idea/
+*.iml
+*.iws
+# Intellij end
+
+# Mac
+.DS_Store
+#Mac end
+
+# Maven
+log/
+target/
+#Maven end
