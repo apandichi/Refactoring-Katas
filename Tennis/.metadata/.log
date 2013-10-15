@@ -1,0 +1,18 @@
+!SESSION 2013-10-15 16:27:59.321 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86 -data /home/data/Projects/Refactoring-Katas/Tennis/
+
+!ENTRY org.infinitest.eclipse 1 0 2013-10-15 16:28:02.850
+!MESSAGE Beans loaded: [workspaceResourceFinder, infinitestCoreRegistry, javaProjectSet, eclipseWorkspace, coreFactory, visualStatusPresenter, markerClearingRunnable, coreLifecycleObserver, preferenceChangeHandler, slowTestObserver, resultCollectorBean, testResultAggregator, failureMediator, swtEventQueue, resourceLookupAdapter, slowMarkerRegistry, markerPlacer, problemMarkerRegistry, markerClearingObserver, cleanEventProcessor, classFileChangeProcessor, saveDetector, coreUpdateNotifier, infinitestActivationController, org.springframework.context.annotation.internalCommonAnnotationProcessor, org.springframework.context.annotation.internalAutowiredAnnotationProcessor, org.springframework.context.annotation.internalRequiredAnnotationProcessor, org.eclipse.core.resources.ResourcesPlugin#0, org.eclipse.debug.core.sourcelookup.containers.WorkspaceSourceContainer#0]
+!SESSION 2013-10-15 16:28:19.254 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.infinitest.eclipse 1 0 2013-10-15 16:28:22.798
+!MESSAGE Beans loaded: [workspaceResourceFinder, infinitestCoreRegistry, javaProjectSet, eclipseWorkspace, coreFactory, visualStatusPresenter, markerClearingRunnable, coreLifecycleObserver, preferenceChangeHandler, slowTestObserver, resultCollectorBean, testResultAggregator, failureMediator, swtEventQueue, resourceLookupAdapter, slowMarkerRegistry, markerPlacer, problemMarkerRegistry, markerClearingObserver, cleanEventProcessor, classFileChangeProcessor, saveDetector, coreUpdateNotifier, infinitestActivationController, org.springframework.context.annotation.internalCommonAnnotationProcessor, org.springframework.context.annotation.internalAutowiredAnnotationProcessor, org.springframework.context.annotation.internalRequiredAnnotationProcessor, org.eclipse.core.resources.ResourcesPlugin#0, org.eclipse.debug.core.sourcelookup.containers.WorkspaceSourceContainer#0]
