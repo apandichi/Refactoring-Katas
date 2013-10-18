@@ -6,7 +6,6 @@
 *.ear
 
 #Eclipse
-.project
 .metadata
 *.metadata
 bin/**
