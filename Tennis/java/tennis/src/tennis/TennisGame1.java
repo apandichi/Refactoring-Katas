@@ -1,4 +1,4 @@
-package tennis;
+package src.tennis;
 
 public class TennisGame1 implements TennisGame {
     

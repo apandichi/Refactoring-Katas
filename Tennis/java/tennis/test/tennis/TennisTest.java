@@ -1,15 +1,19 @@
-package tennis;
+package test.tennis;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 import java.util.Arrays;
 import java.util.Collection;
 
-import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
+
+import src.tennis.TennisGame;
+import src.tennis.TennisGame1;
+import src.tennis.TennisGame2;
+import src.tennis.TennisGame3;
 
 @RunWith(Parameterized.class)
 public class TennisTest {
